@@ -17,7 +17,6 @@
   - [Regression](#r)
 - [Project Motivation](#motivation)
 - [Results](#results)
-- [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 You need to be able to work in a Jupyter Notebook on your computer. The following packages (libraries) need to be installed. You can install these packages via conda or pip.
@@ -52,6 +51,3 @@ This is an Udacity Nanodegree project.I was interested in using A/B Test Data to
 
 ## Results <a name="results"></a>
 Based on the statistical tests I used, the Z-test, logistic regression model, and actual difference observed, the results have shown that the new and old page have an approximately equal chance of converting users. We fail to reject the null hypothesis. I recommend to the e-commerce company to keep the old page. This will save time and money on creating a new page.
-
-## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at the Udacity Website.
